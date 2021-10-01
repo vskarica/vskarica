@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vskarica
 - 👀 I’m interested in self development and some money on a side.
 - 🌱 I’m currently learning front end shit. 
-- 💞️ I’m looking to collaborate on ... well whatever you cam mentor me in.
+- 💞️ I’m looking to collaborate on ... well whatever you can mentor me in.
 - 📫 How to reach me? Try vskarica@gmail.com or +385 95 903 6575
 
 <!---
